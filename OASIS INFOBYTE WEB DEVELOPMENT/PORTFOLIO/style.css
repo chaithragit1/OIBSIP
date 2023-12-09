@@ -28,7 +28,6 @@ html, body
 	float: left;
 }
 
-/*****MENU SECTION*****/
 .main-panel {
 	width: 100%;
 	float: left;
@@ -69,7 +68,7 @@ nav a {
 	color: white;
 }
 
-/*****Main BANNER*****/
+
 .containerstyle_50 {
 	float: left;
 	width: 50%;
@@ -104,13 +103,13 @@ nav a {
 	width: 50px;
 	line-height: 50px;
 }
-/*****Main BANNER IMAGE*****/
+
 .main-panel img {
 	margin-top: 10%;
 	width: 100%;
 	margin-left: 10%;
 }
-/*ABOUT US SECTION*/
+
 #About{
 	background-color: rgb(17, 93, 68);
 }
@@ -160,7 +159,7 @@ table td {
 	text-align: left;
 	padding: 5px 0px;
 }
-/*****SKILL SECTION*****/
+
 #skill{
 	background-color: #262626;
 }
@@ -203,7 +202,7 @@ div[role="progressbar"] {
 		conic-gradient(#1278a1 calc(var(--pgPercentage) * 1%), #ffe6af 0);
 
 }
-/*SERVICE SECTION*/
+
 .service-list {
 	padding: 40px;
 	margin-top: 35px;
@@ -230,7 +229,7 @@ div[role="progressbar"] {
 	font-size: 15px;
 	line-height: 25px;
 }
-/*CONTACT US SECTION*/
+
 .background{
 	background-color: rgb(6, 136, 119);
 }
@@ -283,7 +282,7 @@ textarea {
 	font-size: 16px;
 	margin-top: 5px;
 }
-/*****FOOTER SECTION*****/
+
 .footer {
 	background-color: #202020;
 	padding: 30px 0px 40px 0px;

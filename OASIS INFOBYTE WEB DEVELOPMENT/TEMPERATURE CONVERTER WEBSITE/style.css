@@ -68,24 +68,15 @@
     align-items: center;
     padding: 20px 0;
   }
-   /* .degree-field {
-    display: flex;
-    flex-direction: column;
-    width: 46%; 
-  } */
   option {
     background-color: #3c39e7;
     color: #f6f6f6;
   }
   #convert-btn {
     background: linear-gradient(to bottom, #535376, #120fb9, #535376);
-    /* border: none;
-    outline: none; */
     border-radius: 10px;
     color: #f6f6f6;
-    /* cursor: pointer; */
     font-weight: bold;
-    /* letter-spacing: 1px; */
     text-transform: uppercase;
     margin-top: 10px;
     padding: 10px 18px;
